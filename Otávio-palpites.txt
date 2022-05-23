@@ -1,0 +1,7 @@
+a1 = algum anime
+a2 = serviços de entrega da kiki
+a3 = ilha do medo
+a4 = de volta para o futuro
+a5 = forest gump
+a6 = interestellar
+a7 = algum drama que ganhou o oscar
